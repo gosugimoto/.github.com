@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gosugimoto.github.io/iamgo/sitemap.xml
