@@ -1,2 +1,0 @@
-# iamgo
-Go Sugimoto photography

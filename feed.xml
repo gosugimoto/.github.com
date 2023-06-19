@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Go Sugimoto | A travel journal through photographs</title>
-    <link href="https://gosugimoto.github.io/iamgo/feed.xml" rel="self" />
-    <link href="https://gosugimoto.github.io/iamgo" />
+    <link href="https://www.iamgo.net/feed.xml" rel="self" />
+    <link href="https://www.iamgo.net" />
     <updated>2023-06-17T22:21:25+01:00</updated>
     <author>
         <name>Go Sugimoto</name>
     </author>
-    <id>https://gosugimoto.github.io/iamgo</id>
+    <id>https://www.iamgo.net</id>
 
     <entry>
         <title>Shop</title>
         <author>
             <name>Go Sugimoto</name>
         </author>
-        <link href="https://gosugimoto.github.io/iamgo/shop.html"/>
-        <id>https://gosugimoto.github.io/iamgo/shop.html</id>
+        <link href="https://www.iamgo.net/shop.html"/>
+        <id>https://www.iamgo.net/shop.html</id>
 
         <updated>2023-06-17T22:21:25+01:00</updated>
             <summary>
@@ -39,8 +39,8 @@
         <author>
             <name>Go Sugimoto</name>
         </author>
-        <link href="https://gosugimoto.github.io/iamgo/thoughts.html"/>
-        <id>https://gosugimoto.github.io/iamgo/thoughts.html</id>
+        <link href="https://www.iamgo.net/thoughts.html"/>
+        <id>https://www.iamgo.net/thoughts.html</id>
 
         <updated>2023-06-17T22:18:49+01:00</updated>
             <summary>
@@ -60,8 +60,8 @@
         <author>
             <name>Go Sugimoto</name>
         </author>
-        <link href="https://gosugimoto.github.io/iamgo/places.html"/>
-        <id>https://gosugimoto.github.io/iamgo/places.html</id>
+        <link href="https://www.iamgo.net/places.html"/>
+        <id>https://www.iamgo.net/places.html</id>
 
         <updated>2023-06-17T22:17:38+01:00</updated>
             <summary>
@@ -73,41 +73,41 @@
             <![CDATA[
                 <h3 class="align-left"><span style="color: #616161;">England</span></h3>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_1.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_1-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_2.jpg" data-size="1800x1200"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_2-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_3.jpg" data-size="1800x1200"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_3-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_4.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_england_4-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_1.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_1-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_2.jpg" data-size="1800x1200"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_2-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_3.jpg" data-size="1800x1200"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_3-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_4.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_england_4-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
 </div></div>
 <h3 class="align-left"><span style="color: #34495e;">Belgium</span></h3>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_belgium_1.jpg" data-size="1800x1350"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_belgium_1-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_belgium_2-2.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_belgium_2-2-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_belgium_3-2.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_belgium_3-2-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_belgium_1.jpg" data-size="1800x1350"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_belgium_1-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_belgium_2-2.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_belgium_2-2-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_belgium_3-2.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_belgium_3-2-thumbnail.jpg" alt="" width="720" height="1080"></a></figure>
 </div></div>
 <h3 class="align-left"><span style="color: #616161;">Egypt</span></h3>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_egypt_1.jpg" data-size="1800x1200"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_egypt_1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_egypt_2.jpg" data-size="1800x1200"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_egypt_2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_egypt_3.jpg" data-size="1800x1178"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_egypt_3-thumbnail.jpg" alt="" width="768" height="503"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_egypt_1.jpg" data-size="1800x1200"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_egypt_1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_egypt_2.jpg" data-size="1800x1200"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_egypt_2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_egypt_3.jpg" data-size="1800x1178"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_egypt_3-thumbnail.jpg" alt="" width="768" height="503"></a></figure>
 </div></div>
 <h3 class="align-left"><span style="color: #616161;">Portugal</span></h3>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_1.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_1-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_2.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_3.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_3-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_4.jpg" data-size="1799x1202"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_4-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_5.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_5-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_6.jpg" data-size="1800x1200"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_portugal_6-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_1.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_1-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_2.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_3.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_3-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_4.jpg" data-size="1799x1202"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_4-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_5.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_5-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_6.jpg" data-size="1800x1200"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_portugal_6-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <h3 class="align-left"><span style="color: #616161;">Berlin</span></h3>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_berlin_1.jpg" data-size="1800x2541"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_berlin_1-thumbnail.jpg" alt="" width="768" height="1084"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_berlin_2.jpg" data-size="1800x1200"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_berlin_2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_berlin_1.jpg" data-size="1800x2541"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_berlin_1-thumbnail.jpg" alt="" width="768" height="1084"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_berlin_2.jpg" data-size="1800x1200"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_berlin_2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <h3 class="align-left"><span style="color: #616161;">Maldives</span></h3>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_maldives_1.jpg" data-size="1800x1200"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_maldives_1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_maldives_2.jpg" data-size="1800x2700"><img loading="lazy" src="https://gosugimoto.github.io/iamgo/media/posts/2/gallery/go_sugimoto_maldives_2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_maldives_1.jpg" data-size="1800x1200"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_maldives_1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_maldives_2.jpg" data-size="1800x2700"><img loading="lazy" src="https://www.iamgo.net/media/posts/2/gallery/go_sugimoto_maldives_2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
 </div></div>
 <h3 class="align-left"> </h3>
 <h3 class="align-left"> </h3>
